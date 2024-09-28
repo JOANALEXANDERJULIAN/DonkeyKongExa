@@ -1,0 +1,42 @@
+C:\UNREAL PROYECTOS\DonkeyKongExa\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\Definitions.DonkeyKong_L02.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Source\DonkeyKong_L02\DonkeyKong_L02GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L02\DonkeyKong_L02GameMode.generated.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Source\DonkeyKong_L02\DonkeyKong_L02Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L02\DonkeyKong_L02Character.generated.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Source\DonkeyKong_L02\ComponentPlataforma.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L02\ComponentPlataforma.generated.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Source\DonkeyKong_L02\Enemigo1.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L02\Enemigo1.generated.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Source\DonkeyKong_L02\Muro.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L02\Muro.generated.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Source\DonkeyKong_L02\MuroElectrico.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L02\MuroElectrico.generated.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Source\DonkeyKong_L02\MuroLadrillo.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L02\MuroLadrillo.generated.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Source\DonkeyKong_L02\MuroPegajoso.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L02\MuroPegajoso.generated.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Source\DonkeyKong_L02\MuroCongelado.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L02\MuroCongelado.generated.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Source\DonkeyKong_L02\MuroMetalico.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L02\MuroMetalico.generated.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Source\DonkeyKong_L02\Enemy01.h
+C:\UNREAL PROYECTOS\DonkeyKongExa\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L02\Enemy01.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h

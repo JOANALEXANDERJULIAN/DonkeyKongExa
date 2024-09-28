@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DonkeyKong_L02-5795.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UNREAL PROYECTOS\DonkeyKong_L02\Intermediate\Build\Win64\DonkeyKong_L02Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_L02\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\ComponentePlataforma.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_L02\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\ComponentPlataforma.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_L02\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\DonkeyKong_L02.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_L02\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\DonkeyKong_L02Character.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_L02\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\DonkeyKong_L02GameMode.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_L02\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\ComponentePlataforma.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_L02\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\ComponentPlataforma.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_L02\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\DonkeyKong_L02.init.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_L02\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\DonkeyKong_L02Character.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_L02\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\DonkeyKong_L02GameMode.gen.cpp.obj"
+"C:\UNREAL PROYECTOS\DonkeyKong_L02\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\Default.rc2.res"
+/OUT:"C:\UNREAL PROYECTOS\DonkeyKong_L02\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\UE4Editor-DonkeyKong_L02-5795.lib"
